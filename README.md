@@ -26,9 +26,9 @@ The key results are that:
 
 <a href="/Presentation_Employee_Attrition.pdf">Presentation PDF</a>
 
-<a href="/Case_Study_Employee_Attrition.ipynb">Presentation PPT(includes voice recording)</a>
+<a href="/Presentation_Employee_Attrition.pptx">Presentation PPT(includes voice recording)</a>
 
-<a href="/Presentation_Employee_Attrition.pptx">EDA Jupyter Notebook</a>
+<a href="/Case_Study_Employee_Attrition.ipynb">EDA Jupyter Notebook</a>
 
 
 
